@@ -1,5 +1,8 @@
 # deeplearningprojects
-[![DeepLearning](https://learn.g2.com/hubfs/what-is-deep-learning.jpg)]
+![DeepLearning](https://learn.g2.com/hubfs/what-is-deep-learning.jpg)
+
+
+
 These projects are the part of `Tensorflow-in-practice` specializations  or MIT 6.S191 course. I have completely done the specializations.
 Certificates - 
 1. [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/account/accomplishments/verify/VJA7XKNYBUYP)
